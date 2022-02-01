@@ -13,5 +13,8 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: red;
+  background-color: #f44336;
+}
+.services .serv-content .card:hover i{
+    color: #fff;
 }
