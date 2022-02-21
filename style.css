@@ -366,7 +366,7 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 80%;
+    width: 90%;
 }
 .skills-content .right .js::before{
     width: 90%;
@@ -375,7 +375,7 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .mysql::before{
-    width: 90%;
+    width: 80%;
 }
 
 /* teams section styling */
